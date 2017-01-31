@@ -13,7 +13,7 @@ $(function() {
     returnThings.push(secondThing);
     returnThings.push(firstThing);
     returnThings.push(thirdThing);
-    returnThings.toString();
+    //returnThings.toString();
 
     //var returnThings = [allThings[1], allThings[0], allThings[2]] // same as var returnThings just above this
 
